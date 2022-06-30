@@ -1,17 +1,18 @@
 ﻿  Program.cpp
-C:\Users\Виктория\source\repos\AssignmentProblem__C\CombinationsGenerator.h(49,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(33,33): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(38,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(41,38): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(73,26): warning C4018: '<=': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(98,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(99,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(101,26): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(120,22): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\ExactSolution.h(124,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\Program.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\Program.cpp(65,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\Виктория\source\repos\AssignmentProblem__C\Program.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Виктория\source\repos\AssignmentProblem__C\Program.cpp(71): message : see reference to function template instantiation 'std::ostream &operator <<<int>(std::ostream &,const std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)' being compiled
-C:\Users\Виктория\source\repos\AssignmentProblem__C\Program.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
-  AssignmentProblem__C.vcxproj -> C:\Users\Виктория\source\repos\AssignmentProblem__C\Debug\AssignmentProblem__C.exe
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\CombinationsGenerator.h(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(33,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(38,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(41,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(73,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(98,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(99,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(101,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(120,22): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\ExactSolution.h(124,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\Program.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\Program.cpp(65,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\Program.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\Program.cpp(71): message : see reference to function template instantiation 'std::ostream &operator <<<int>(std::ostream &,const std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)' being compiled
+C:\Users\Виктория\Desktop\assignment_problem_with_constraints\Program.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\Виктория\Desktop\assignment_problem_with_constraints\Debug\AssignmentProblem__C.exe not found or not built by the last incremental link; performing full link
+  AssignmentProblem__C.vcxproj -> C:\Users\Виктория\Desktop\assignment_problem_with_constraints\Debug\AssignmentProblem__C.exe
